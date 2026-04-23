@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "Node16",
+    
+    /* Modules */
+    "moduleResolution": "Node16", 
+    "esModuleInterop": true,
+    
+    /* JavaScript Support */
+    "resolveJsonModule": true,    
+    
+    /* Type Checking */
+    "strict": true,
+    "skipLibCheck": true,
+    
+    /* Emit */
+    "outDir": "./dist",
+    "rootDir": "./src"
+  }
+}
