@@ -2,7 +2,7 @@ import { FetchClient } from '@telegraf-hardened/fetch';
 import fs from 'fs';
 
 class KahootNetwork {
-    private client: typeof FetchClient;
+    private client: FetchClient;
     private token: string | null;
     private readonly tokenFile: string;
     constructor() {
