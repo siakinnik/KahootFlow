@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@telegraf-hardened/fetch": "^1.0.3",
-    "dotenv": "^17.4.2"
+    "dotenv": "^17.4.2",
+    "telegraf-hardened": "^5.0.0"
   }
 }
