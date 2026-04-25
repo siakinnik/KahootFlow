@@ -17,6 +17,7 @@
   "dependencies": {
     "@telegraf-hardened/fetch": "^1.0.3",
     "dotenv": "^17.4.2",
+    "kahoot.js-latest": "^1.0.8",
     "telegraf-hardened": "^5.0.0"
   }
 }
